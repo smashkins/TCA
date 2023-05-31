@@ -37,10 +37,3 @@ Contributions to this learning repository are welcome! If you have any additiona
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the Composable Architecture learning repository for your own learning purposes.
-
-## Resources
-
-- [Official Documentation](https://github.com/your-repository/composable-architecture/wiki)
-- [Example Projects](https://github.com/your-repository/composable-architecture/tree/main/Examples)
-- [Community Discussions](https://github.com/your-repository/composable-architecture/discussions)
-- [Issue Tracker](https://github.com/your-repository/composable-architecture/issues)
